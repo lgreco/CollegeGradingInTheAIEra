@@ -10,4 +10,4 @@ Rather than ask “Did the student write every line themselves?” we should ask
 
 We’re not abandoning rigor. We’re aligning it with reality. A reimagined grading framework should support learning outcomes that AI can’t fake: judgment, integrity, and professional maturity.
 
-*(This text was edited with chatGPT for spelling, grammar, and improved readability)*
+*(This text was edited with chatGPT for spelling, grammar, and improved readability.)*
